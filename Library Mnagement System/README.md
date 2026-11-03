@@ -116,25 +116,18 @@ library-management-system/
 ## 📸 Screenshots
 
 ### Home Menu
-![Home Menu](screenshots/home.png)
 
 ### Add Book
-![Add Book](screenshots/add_book.png)
 
 ### View All Books
-![View Books](screenshots/view_books.png)
 
 ### Search Book
-![Search Book](screenshots/search.png)
 
 ### Issue Book
-![Issue Book](screenshots/issue.png)
 
 ### Return Book
-![Return Book](screenshots/return.png)
 
 ### Reports
-![Reports](screenshots/reports.png)
 
 ---
 
